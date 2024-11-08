@@ -8,16 +8,16 @@
 <p>
   Hello 👋, I'm Carlos Vinicius, a passionate front-end developer from Brazil.
 
-  - 🌱 Currently, I am trained as a Front End Developer by DevClub <img align="center" alt="devclub" src="https://rodolfomori.com.br/wp-content/uploads/elementor/thumbs/LOGO_1-qo8czxy553cvyvfatwq4bq0gsmaibyhntedfi6zcj4.png" height="30"/>
+  - 🌱 Currently, I am trained as a Fullstack Developer by DevClub <img align="center" alt="devclub" src="https://rodolfomori.com.br/wp-content/uploads/elementor/thumbs/LOGO_1-qo8czxy553cvyvfatwq4bq0gsmaibyhntedfi6zcj4.png" height="30"/>
 
-  - 🔭 I'm looking for my first job opportunity in front-end development. My goal is to create amazing user interfaces and provide great user experiences.
+  - 🔭 I'm looking for my first opportunity as a developer. My goal is to create amazing user interfaces and provide great user experiences.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I'm 20 years old, I currently live in Brazil. I have intermediate English and experience with HTML, CSS, JavaScript and modern frameworks such as React. I'm always looking to learn new technologies and improve my skills.
+  - 💬 I'm 21 years old, I currently live in Brazil. I have intermediate English and experience with HTML, CSS, JavaScript and modern frameworks such as React, Nodejs, mysql, git, docker and more. I'm always looking to learn new technologies and improve my skills.
 
   - ⚡ I like reading, whether it's a good book, manga or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem solving. \o/
 </details>
