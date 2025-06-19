@@ -8,7 +8,7 @@
 <p>
   Hello 👋, I'm Carlos Vinicius, a passionate front-end developer from Brazil.
 
-  - 🌱 Currently, I am trained as a Fullstack Developer by DevClub <img align="center" alt="devclub" src="https://files.curseduca.com/d9ab31c9-4410-4407-92cd-5723bde8194f/c4e2cb146ddceac85302b789b44acd838b55356c.webp" height="30"/>
+  - 🌱 Currently, I am trained as a Fullstack Developer by DevClub <img align="center" alt="devclub" src="https://files.curseduca.com/d9ab31c9-4410-4407-92cd-5723bde8194f/c4e2cb146ddceac85302b789b44acd838b55356c.webp" width="120"/>
 
   - 🔭 I'm looking for my first opportunity as a developer. My goal is to create amazing user interfaces and provide great user experiences.
 </p>
