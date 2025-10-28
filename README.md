@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I'm 21 years old, I currently live in Brazil. I have intermediate English and experience with HTML, CSS, JavaScript and modern frameworks such as React, Nodejs, mysql, git, docker and more. I'm always looking to learn new technologies and improve my skills.
+  - 💬 I'm 22 years old, I currently live in Brazil. I have intermediate English and experience with HTML, CSS, JavaScript and modern frameworks such as React, Nodejs, mysql, git, docker and more. I'm always looking to learn new technologies and improve my skills.
 
   - ⚡ I like reading, whether it's a good book, manga or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem solving. \o/
 </details>
